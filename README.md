@@ -1,1 +1,1 @@
-# faster-rcnn
+# Faster RCNN Webinar
